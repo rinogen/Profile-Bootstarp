@@ -67,14 +67,12 @@ Type = text/css
 #head-color{
     font-family: 'IBM Plex Serif', serif;
     font-size: 40px;
-    font-weight: bold;
-    color: black;
-    margin-top: -640px;
+    font-weight: bolder;
+    color:white;
+    margin-top: -600px;
 }
 
-/* #head-layout{
-    margin-top: -300px;
-} */
+
 
 /* Button  */
 .button-me{
@@ -87,7 +85,7 @@ Type = text/css
 
 /* Footer */
 #section-footer{
-    text-align: left;
+    text-align: center;
     color: white;
     border-radius: 20px;
     transition: 0.2s;
