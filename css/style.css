@@ -1,0 +1,102 @@
+/*
+Author = Hubertus Rino Augenio
+Type = text/css
+*/
+
+/* style navbar*/
+#bg-color{
+    background: rgba(0, 0, 0, .5);
+}
+
+/* Logo Text */
+#logo-txt{
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 40px;
+    color:white;
+    font-weight: bold;
+}
+
+.nav-item{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+/* style home */
+#txt-home{
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+#txt-paragraph{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+/* style carousel */
+.carousel-item{
+    height: 780px;
+}
+
+.carousel-item img{
+    margin-top: -200px;
+    background-size: cover;
+}
+
+.carousel-item .display-4{
+    margin-top: -350px;
+}
+
+.d-flex .bd-highlight{
+    margin-top: -200px;
+    background-size: cover;
+}
+
+#pct-layout{
+    margin-top: -300px;
+}
+
+
+
+/* sytle slide two */
+#margin-top{
+    margin-top: -400px;
+}
+
+#head-color{
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    margin-top: -640px;
+}
+
+/* #head-layout{
+    margin-top: -300px;
+} */
+
+/* Button  */
+.button-me{
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin: 5px;
+    padding: 7px 28px;
+    border-radius: 25px;
+}
+
+/* Footer */
+#section-footer{
+    text-align: left;
+    color: white;
+    border-radius: 20px;
+    transition: 0.2s;
+    font-size: 20px;
+
+    position: absolute;
+    bottom: 0px;
+
+    width: 100%;
+    height: 50px;
+}
+
